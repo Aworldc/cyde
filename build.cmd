@@ -1,0 +1,2 @@
+@REM pyinstaller --noconfirm --onefile --windowed --icon "C:/Users/Phill-Al/Desktop/code/cyde/logo.ico" --splash "C:/Users/Phill-Al/Desktop/code/cyde/splash.png" --add-data "C:/Users/Phill-Al/Desktop/code/cyde/bin;bin/"  "C:/Users/Phill-Al/Desktop/code/cyde/cyde.py"
+pyinstaller cyde.spec
